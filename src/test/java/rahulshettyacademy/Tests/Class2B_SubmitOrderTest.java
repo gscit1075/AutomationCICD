@@ -81,7 +81,7 @@ public class Class2B_SubmitOrderTest extends BaseTest {
 							
 							AssertJUnit.assertTrue(confirmationPage.getConfirmationText().equalsIgnoreCase("THANKYOU FOR THE ORDER."));
 							
-							System.out.println("End to Code Successfull");     
+							System.out.println("End to Code Successfull Done");     
 	         }
     
  //Orders Page: *************************************************************************************************************************
