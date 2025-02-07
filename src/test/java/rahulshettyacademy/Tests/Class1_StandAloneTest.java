@@ -20,7 +20,7 @@ public class Class1_StandAloneTest {
 //First invoke the browser:
 		
 		// WebDriverManager.chromedriver().setup();
-                // new comment are added
+                // new comment are added for webhook test
 	
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\hp\\Documents\\chromedriver.exe");
 		  WebDriver driver = new ChromeDriver();
